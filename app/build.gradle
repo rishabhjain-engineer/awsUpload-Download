@@ -30,4 +30,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.amazonaws:aws-android-sdk-core:2.4.4'
     compile 'com.amazonaws:aws-android-sdk-s3:2.4.4'
+    compile 'com.amazonaws:aws-android-sdk-cognito:2.4.4'
+    compile 'com.amazonaws:aws-android-sdk-kms:2.4.4'
 }
